@@ -31,9 +31,23 @@ It's a web where you can search for Dog's breeds, filter them by temper and orig
 
 <a href="https://dogs-app-chi.vercel.app/" target="_blank"><img alt="DogApp" src="https://github.com/SilVildoza/silvildoza/blob/main/assets/DogApp.png"/></a> &nbsp;
 
+<h3> Henry Club App </h3>
+
+This project was the Final Project we made for soyhenry bootcam. It was made with REACT - REDUX - CSS (vanilla) - BOOTSTRAP - CLOUDINARY on the front side and NODE.JS (express) - POSTGRESQL - NODEMAILER - AUTH0 - MERCADOPAGO on the back side.
+It's a web where you can search for the club's activities and sports, filter news, subscibe to a new activity and pay for it (Club members); create users, users' rols, activities, news, sports, and more (Admin)
+
+​​​​👉​​ Take me there ​​​​👉​ <a href="https://club-henry.vercel.app/" target="_blank" rel="HenryClubApp" >
+        Link
+    </a>
+
+<a href="https://club-henry.vercel.app/" target="_blank"><img alt="HenryClubApp" src="https://github.com/SilVildoza/silvildoza/blob/main/assets/HenryClub.png"/></a> &nbsp;
+
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flate&logo=redux&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -43,28 +57,17 @@ It's a web where you can search for Dog's breeds, filter them by temper and orig
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<!-- ![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
-![JMH](https://img.shields.io/badge/JMH%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp; -->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![Express.JS](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)&nbsp;
+![Node.JS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)&nbsp;
+
 
 ### 📫 &nbsp; How to reach me:
 
 
 <a href="https://www.linkedin.com/in/silvinavildoza/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:silvina880494@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<!-- <a href="https://instagram.com/abhi_1507"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp; -->
-<!--
-**SilVildoza/SilVildoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://instagram.com/madpeach88"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp; -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
