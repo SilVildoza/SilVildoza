@@ -5,7 +5,7 @@
 Full Stack Developer :heart: from Argentina to :earth_americas:
 </h2>
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="center"/> Hello there !
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="center"/> Hello World ! 
 
 ### ​👩‍💻​ &nbsp;About Me
 
@@ -69,5 +69,5 @@ It's a web where you can search for the club's activities and sports, filter new
 
 <a href="https://www.linkedin.com/in/silvinavildoza/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:silvina880494@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/madpeach88"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp; -->
+<a href="https://instagram.com/madpeach88"><img src="https://img.shields.io/badge/-@madpeach88_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp; -->
 
