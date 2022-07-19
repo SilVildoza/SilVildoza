@@ -20,6 +20,8 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
 ### :star: My Projects
 
+<h3> Dog App </h3>
+
 This project I made was for the soyhenry bootcam. It was made with REACT - REDUX - CSS (vanilla) on the front side and NODE.JS (express) - POSTGRESQL on the back side.
 It's a web where you can search for Dog's breeds, filter them by temper and origin (created by us or coming from an existing API), and even create your own breed.
 
