@@ -5,7 +5,7 @@
 Full Stack Developer :heart: from Argentina to :earth_americas:
 </h2>
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="center"/> Hello there !
 
 ### ​👩‍💻​ &nbsp;About Me
 
@@ -19,6 +19,9 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 <!-- 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1CqJoOAelUgnIOMNHqZAlMxR0F3nRoJuo/view?usp=sharing) for more details about work experience. -->
 
 ### :star: My Projects
+
+This project I made was for the soyhenry bootcam. It was made with REACT - REDUX - CSS (vanilla) on the front side and NODE.JS (express) - POSTGRESQL on the back side.
+It's a web where you can search for Dog's breeds, filter them by temper and origin (created by us or coming from an existing API), and even create your own breed.
 
 <a href="https://dogs-app-chi.vercel.app/"><img alt="DogApp" src="https://github.com/SilVildoza/silvildoza/blob/main/assets/DogApp.png"/></a> &nbsp;
 
