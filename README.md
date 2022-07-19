@@ -1,4 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+![Hi, I'm Sil](https://github.com/SilVildoza/silvildoza/blob/main/assets/header.gif)
 
 <!--
 **SilVildoza/SilVildoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
