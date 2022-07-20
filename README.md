@@ -15,8 +15,8 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 🌱 &nbsp; I'm on track for learning more about new technologies and a new language.\
 ✍️ &nbsp; In my free time, I read a lot, enjoy watching series and listening good music as my hobbies.\
 💬 &nbsp; Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at silvina880494@gmail.com. I'll try to respond as soon as possible!
-<!-- 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1CqJoOAelUgnIOMNHqZAlMxR0F3nRoJuo/view?usp=sharing) for more details about work experience. -->
+✉️ &nbsp;You can email me at silvina880494@gmail.com. I'll try to respond as soon as possible! \
+📄 &nbsp;You can check my [Resume](https://1drv.ms/b/s!AqHcsMsLVVVr-iO0qoIzuZs2hGnI) for more details. 
 
 ### :star: My Projects
 
